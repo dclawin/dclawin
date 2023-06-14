@@ -1,5 +1,5 @@
 
-# Data for vintage Biddle convectors
+# Data for Vintage Biddle Convectors
 
 ## Convectors
 
@@ -21,7 +21,7 @@ Source: [Datasheet on archive.org](https://archive.org/details/konvektoren-biddl
 
 The datasheet was used to derive the "hk.dat" file provided. Linear interpolation was used to derive power data over convector length. Hence there is a small difference for power data between 1000W and 2000W. Radiator coefficient of 1.396 was derived form drawing on page 4 in the datasheet.
 
-This file is based on best effort and provided as help for system calculations like hydraulic balancing, as is.
+This file is based on best efforts and provided as help for system calculations like hydraulic balancing, as is.
 
 ## Author
 
